@@ -1,0 +1,65 @@
+.navbar-brand{
+    font-family: 'Sevillana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 65px;
+
+    color: #000000;
+}
+
+.container{
+    min-width: 90%;
+}
+
+.derecha{
+    position: absolute;
+    right: 0px;
+}
+
+.nav-link{
+    color: #000000;
+}
+
+.active{
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+
+.navbar{
+    background: #C4C4C4;
+}
+
+.card{
+    min-height: 100%;
+    background: #C4C4C4;
+}
+
+.card-imagen{
+    width: 80%;
+    align-self: center;
+}
+
+.card-title{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.titulo{
+    background: #C4C4C4;
+    font-weight: 800;
+    text-align: center;
+    font-size: 32px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.lineaBot{
+    border-bottom: 1px solid #000000;
+    padding: 0%;
+    margin: 0%;
+}
